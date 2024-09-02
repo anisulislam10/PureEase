@@ -4,6 +4,7 @@ Features
 Responsive Design: Optimized for different screen sizes, including mobile, tablet, laptop, and desktop.
 Modern Styling: Utilizes Tailwind CSS for a contemporary and customizable user interface.
 Efficient Development: Built with Vite for a streamlined development process and rapid build times.
+
 Technologies
 React: A powerful JavaScript library for building dynamic user interfaces.
 Vite: A next-generation build tool that enhances development speed and efficiency.
@@ -15,7 +16,7 @@ Clone the Repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/pureease.git
+git clone https://github.com/anisulislam10/pureease.git
 Navigate to the Project Directory:
 
 bash
@@ -50,5 +51,5 @@ License
 This project is licensed under the MIT License. For more details, please refer to the LICENSE file.
 
 Contact
-For further inquiries or feedback, please contact your-email@example.com.
+For further inquiries or feedback, please contact anis.inbox10@gmail.com.
 
