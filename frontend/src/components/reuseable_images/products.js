@@ -1,7 +1,7 @@
 const products = [
     {
       id: 1,
-      imageSrc: '/src/assets/our-products/158-1581089_toilet-paper-png-file-tissue-paper-transparent-png.png',
+      imageSrc: '/src/assets/158-1581089_toilet-paper-png-file-tissue-paper-transparent-png.png',
       description: 'tissue paper',
       price: 1000.99,
       rating: 4.5,
@@ -9,7 +9,7 @@ const products = [
     },
     {
       id: 2,
-      imageSrc: '/src/assets/our-products/656fc8ae78e04b05dfefae14_Tissue paper - packm brand.png',
+      imageSrc: '/src/assets/656fc8ae78e04b05dfefae14_Tissue paper - packm brand.png',
       description: 'tissue paper',
       price: 1000.99,
       rating: 4.5,
@@ -17,7 +17,7 @@ const products = [
     },
     {
       id: 3,
-      imageSrc: '/src/assets/our-products/Tissue-Paper-Roll-PNG-HD-Quality.png',
+      imageSrc: '/src/assets/Tissue-Paper-Roll-PNG-HD-Quality.png',
       description: 'tissue paper',
       price: 1000.99,
       rating: 4.5,
@@ -25,7 +25,7 @@ const products = [
     },
     {
       id: 4,
-      imageSrc: '/src/assets/our-products/ultra-soft-virgin-table-tissue-paper-500x500.webp',
+      imageSrc: '/src/assets/ultra-soft-virgin-table-tissue-paper-500x500.webp',
       description: 'tissue paper',
       price: 1000.99,
       rating: 4.5,
@@ -56,7 +56,7 @@ const products = [
     },
     {
       id: 8,
-      imageSrc: '/src/assets/our-products/158-1581089_toilet-paper-png-file-tissue-paper-transparent-png.png',
+      imageSrc: '/src/assets/158-1581089_toilet-paper-png-file-tissue-paper-transparent-png.png',
       description: 'tissue paper',
       price: 1000.99,
       rating: 4.5,
@@ -64,7 +64,7 @@ const products = [
     },
     {
       id: 9,
-      imageSrc: '/src/assets/our-products/158-1581089_toilet-paper-png-file-tissue-paper-transparent-png.png',
+      imageSrc: '/src/assets/158-1581089_toilet-paper-png-file-tissue-paper-transparent-png.png',
       description: 'tissue paper',
       price: 1000.99,
       rating: 4.5,
@@ -72,7 +72,7 @@ const products = [
     },
     {
       id: 10,
-      imageSrc: '/src/assets/our-products/158-1581089_toilet-paper-png-file-tissue-paper-transparent-png.png',
+      imageSrc: '/src/assets/158-1581089_toilet-paper-png-file-tissue-paper-transparent-png.png',
       description: 'tissue paper',
       price: 1000.99,
       rating: 4.5,
