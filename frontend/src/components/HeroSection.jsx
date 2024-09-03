@@ -24,6 +24,8 @@ function HeroSection() {
         <img src={TissueImage} alt="" width='40%' className='rounded-3xl ml-[800px] mt-[-150px] pb-5' />
 
       </div>
+      
+      
       </div>
 
     </div>
