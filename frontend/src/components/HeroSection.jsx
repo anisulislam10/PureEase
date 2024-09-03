@@ -19,7 +19,7 @@ function HeroSection() {
 
           className='mx-[25px] w-[400px] rounded-lg px-3 border shadow-2xl max-w-[300px] max-h-[30px] py-4 mt-10'
 
-        /> <button className=''> <Search className='ml-[-290px] my-[45px] bg-blue-500 text-white rounded-md' /></button>
+        /> <button className=''> <Search className='ml-[-330px] my-[45px] bg-blue-500 text-white rounded-md border border-black' /></button>
 
         <img src={TissueImage} alt="" width='40%' className='rounded-3xl ml-[800px] mt-[-150px] pb-5' />
 
