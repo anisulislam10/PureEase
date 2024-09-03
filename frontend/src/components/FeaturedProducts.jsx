@@ -1,6 +1,8 @@
 import React from 'react'
 import FeaturedProductCard from './reuseable_images/FeaturedProductCard.jsx';
 import products from './reuseable_images/FeaturedProductCard.js';
+import { Link, useNavigate } from 'react-router-dom'
+import Products from './Products.jsx';
 // import ReusableImage from './reuseable_images/ReusableImage';
 
 const FeaturedProducts = () => {
@@ -21,7 +23,7 @@ const FeaturedProducts = () => {
         ))}
       </div>
       <div className='text-center'>
-        <button className='bg-blue-600 rounded-md shadow-md font-bold text-white w-[200px]'>Explore All Products</button>
+        <button className='bg-blue-600 rounded-md shadow-md font-bold text-white w-[200px]'><Link to={"/products"}>Explore All Products</Link></button>
       </div>
     </div>
    </>

@@ -1,6 +1,8 @@
 import React from 'react'
 // import officialLogo from '../../assets/logo/logo.png'
 import { Origami, ShoppingCart,User2Icon} from 'lucide-react';
+import { Link, useNavigate } from 'react-router-dom'
+
 
 
 
@@ -17,12 +19,12 @@ function Header() {
         
         
             <ul className=' grid grid-flow-col gap-0 mr-[270px] ml-[-150px] items-center '>
-                <li className='text-white font-bold hover:bg-yellow-500 hover:rounded-xl hover:text-green-100 hover: cursor-pointer'>Home</li>
-                <li className='text-white font-bold hover:bg-yellow-500 hover:rounded-xl hover:text-green-100 hover: cursor-pointer'>Products</li>
-                <li className='text-white font-bold hover:bg-yellow-500 hover:rounded-xl hover:text-green-100 hover: cursor-pointer'>Contact</li>
+                <li className='text-white font-bold hover:bg-yellow-500 hover:rounded-xl hover:text-green-100 hover: cursor-pointer'> <Link to={"/"}>Home</Link></li>
+                <li className='text-white font-bold hover:bg-yellow-500 hover:rounded-xl hover:text-green-100 hover: cursor-pointer'><Link to={"/products"}>Products</Link></li>
+                <li className='text-white font-bold hover:bg-yellow-500 hover:rounded-xl hover:text-green-100 hover: cursor-pointer'><Link to={"/contact"}>Contact</Link></li>
             </ul>
             <div className='items-center text-center mt-2 pr-[10px]'>
-            <button className='bg-white rounded-sm p-[5px]'><ShoppingCart className=''/></button> 
+            <button variant="outline" className='bg-white rounded-sm p-[5px]'><Link to={"/mycart"}><ShoppingCart  /></Link></button> 
             <button className='bg-white rounded-sm p-[5px] ml-[10px] '><User2Icon className=''/></button> 
             
           
