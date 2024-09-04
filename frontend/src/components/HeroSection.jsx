@@ -1,5 +1,5 @@
 import React from 'react'
-import TissueImage from './../assets/tissue.png'
+import TissueImage from './../assets/3.jpg'
 import { Search } from 'lucide-react'
 
 
