@@ -8,14 +8,14 @@ const products = [
     },
     {
       id: 2,
-      imageSrc: '/src/assets/Featured-Products/1.jpg',
+      imageSrc: '/src/assets/Featured-Products/2.webp',
       description: 'Beco Organic Bamboo Ultra',
       price: 600.00,
       altText: 'Beco Organic Bamboo Ultra',
     },
     {
       id: 3,
-      imageSrc: '/src/assets/Featured-Products/1.jpg',
+      imageSrc: '/src/assets/Featured-Products/3.webp',
       description: 'Paper Napkin Use For Home, Office',
       price: 300.99,
       altText: 'Paper Napkin Use For Home, Office',

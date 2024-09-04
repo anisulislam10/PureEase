@@ -4,7 +4,7 @@ function AboutUs() {
   return (
     <><div className='grid grid-cols-3 mt-11 bg-green-500 text-white mb-6'>
       <div>
-        <h1 className='mx-8 font-bold text-white bg-green-600 mr-[100px] rounded-lg mt-[-10px] text-[25px]'>who we are</h1>
+        <h1 className='mx-8 font-bold text-white bg-green-600 mr-[100px] rounded-lg mt-[-10px] text-[25px] '>who we are</h1>
         <p className='mx-8 '>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos, eaque possimus exc</p>
       </div>
       <div>
