@@ -8,7 +8,7 @@ const products = [
     },
     {
       id: 2,
-      imageSrc: '/src/assets/Featured-Products/2.webp',
+      imageSrc: 'https://stationers.pk/cdn/shop/products/rosepetalluxury.jpg?v=1673354482&width=600',
       description: 'Beco Organic Bamboo Ultra',
       price: 600.00,
       altText: 'Beco Organic Bamboo Ultra',
