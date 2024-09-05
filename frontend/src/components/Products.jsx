@@ -36,7 +36,7 @@ const Products = () => {
               key={product.id}
               imageSrc={product.imageSrc}
               description={product.description}
-              price={product.price}
+              price={Math.ceil(product.price)}
               rating={product.rating}
               altText={product.altText}
               onAddToCart={() => handleAddToCart(product)} // Call handleAddToCart function

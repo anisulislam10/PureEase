@@ -22,7 +22,7 @@ const Checkout = () => {
               <h1 className="text-3xl font-bold mb-6 text-center">Checkout</h1>
               <div className="bg-gray-100 border border-gray-300 p-4 rounded-md">
                   <h2 className="text-lg font-semibold mb-4">Order Summary</h2>
-                  <p>Total Price: PKR {totalPrice}</p>
+                  <p>Total Price: PKR {Math.ceil(totalPrice)}</p>
                   <h3 className="text-lg font-semibold mt-4">Payment Method</h3>
                   <button
                       className="bg-green-500 text-white px-4 py-2 rounded-md mt-2 w-full"
